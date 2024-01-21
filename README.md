@@ -18,6 +18,8 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] Moving Changes to GitHub
 - [x] Standard Work Flow
 
+COMPLETED!!!!
+
 ---
 
 ## View this README
